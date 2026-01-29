@@ -2,7 +2,7 @@
 
 **A High-Throughput, Scalable Framework for Knowledge Hypergraph RAG**
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![Python](https://img.shields.io/badge/Python-3.14%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Active_Development-orange)
 
