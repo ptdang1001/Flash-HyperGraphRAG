@@ -1,7 +1,7 @@
 <div align="center">
   <img src="logo.png" alt="Flash-HyperGraphRAG Logo" width="100" />
 
-  <h1># ⚡ Flash-HyperGraphRAG</h1>
+  <h1> ⚡ Flash-HyperGraphRAG</h1>
 
   <p>
     <strong>A High-Throughput, Scalable Framework for Knowledge Hypergraph RAG</strong>
