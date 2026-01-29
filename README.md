@@ -61,15 +61,16 @@ This framework introduces optimizations across three key layers, bridging the ga
 The system is composed of three primary modules:
 
 1.  **Flash-ETL Engine:** A distributed processing engine responsible for raw text ingestion, parallel chunking, and graph extraction.
-2.  **Storage Layer:** * **Neo4j:** Stores the Hypergraph topology and semantic relationships.
+2.  **Storage Layer:**
+    * **Neo4j:** Stores the Hypergraph topology and semantic relationships.
     * **Milvus:** Stores high-dimensional vector embeddings for entities and text chunks.
-3.  **Inference Server:** A FastAPI-based retrieval engine with modular ranking logic and a React-based visualization dashboard.
+4.  **Inference Server:** A FastAPI-based retrieval engine with modular ranking logic and a React-based visualization dashboard.
 
 ## Getting Started
 
 ### Prerequisites
 
-* **Python 3.10+**
+* **Python 3.14+**
 * **Docker & Docker Compose** (for Neo4j and Milvus orchestration)
 * **OpenAI API Key** (or compatible local LLM endpoint)
 
