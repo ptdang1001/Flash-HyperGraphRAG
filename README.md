@@ -1,10 +1,34 @@
-# Flash-HyperGraphRAG
+# ⚡ Flash-HyperGraphRAG
 
 **A High-Throughput, Scalable Framework for Knowledge Hypergraph RAG**
 
 ![Python](https://img.shields.io/badge/Python-3.14%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Active_Development-orange)
+
+<div align="center">
+  <img src="logo.png" alt="Flash-HyperGraphRAG Logo" width="200" />
+
+  <h1>Flash-HyperGraphRAG</h1>
+
+  <p>
+    <strong>A High-Throughput, Scalable Framework for Knowledge Hypergraph RAG</strong>
+  </p>
+
+  <p>
+    <a href="">
+      <img src="https://img.shields.io/badge/Python-3.10%2B-blue" alt="Python Version" />
+    </a>
+    <a href="">
+      <img src="https://img.shields.io/badge/License-MIT-green" alt="License" />
+    </a>
+    <a href="">
+      <img src="https://img.shields.io/badge/Status-Active_Development-orange" alt="Status" />
+    </a>
+  </p>
+</div>
+
+<br />
 
 ## Abstract
 
